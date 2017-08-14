@@ -12,7 +12,7 @@ style="float:right;width:30%;max-width:210px;margin-left:15px;"/></a>
 
 I am **Shashwat Bhatt**, a senior software engineer who enjoys exploring
 new technologies and programming languages. I have developed various
-projects in Python, PHP, JavaScript. I am Software Engineer at [Gridle](https://gridle.io)
+projects in Python, PHP, JavaScript. I am a Senior Software Engineer at [Gridle](https://gridle.io)
 where I spend most of my time, but I also enjoy playing table tennis and volleyball also I like to read books.
 
 You can contact me via [email](mailto:bhatt.shaswat@gmail.com).
