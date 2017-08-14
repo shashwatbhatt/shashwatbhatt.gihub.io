@@ -1,7 +1,7 @@
 # Site settings
 title: Shashwat's Blog
 email: bhatt.shaswat@gmail.com
-description: "Personal blog about programming, learning, open-source, startups, git, linux, etc."
+description: "Personal blog of Shashwat Bhatt about programming, learning, open-source, startups, git, linux, etc."
 baseurl: ""
 url: "https://shashwatbhatt.github.io"
 twitter_username: BhattShashwat
